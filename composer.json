@@ -1,5 +1,5 @@
 {
-    "name": "igorw/composer-yaml",
+    "name": "c33s/composer-yaml",
     "description": "Tool to convert from composer.yml to composer.json.",
     "require": {
         "symfony/console": "~2.1",
